@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS** , **Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdulrahmn69/Portfolio](https://abdelrahman69.tech/)
+- 👨‍💻 All of my projects are available at [[https://github.com/abdulrahmn69/Portfolio](https://abdelrahman69.tech/)](https://abdelrahman69.tech/)
 
-- 📝 I regularly write articles on [https://medium.com/@abdelrahman69](https://medium.com/@3bdulrahmn69)
+- 📝 I regularly write articles on [[https://medium.com/@abdelrahman69](https://medium.com/@3bdulrahmn69)](https://medium.com/@3bdulrahmn69)
 
 - 📫 How to reach me **abdelrahmanmoussa111@gmail.com**
 
