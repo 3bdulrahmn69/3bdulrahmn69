@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**3bdulrahmn69/3bdulrahmn69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://abdulrahmn69.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Abdulrahman Moussa</h1>
 <h3 align="center">A Software Engineer | Frontend specialize from Egypt and i wanna change the world</h3>
@@ -27,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS** , **Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/abdulrahmn69/Portfolio](https://abdelrahman69.tech/)](https://abdelrahman69.tech/)
+- 👨‍💻 All of my projects are available at [https://abdelrahman69.tech](https://abdelrahman69.tech/)
 
-- 📝 I regularly write articles on [[https://medium.com/@abdelrahman69](https://medium.com/@3bdulrahmn69)](https://medium.com/@3bdulrahmn69)
+- 📝 I regularly write articles on [https://medium.com/@3bdulrahmn69](https://medium.com/@3bdulrahmn69)
 
 - 📫 How to reach me **abdelrahmanmoussa111@gmail.com**
 
