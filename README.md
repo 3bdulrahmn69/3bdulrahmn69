@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://3bdulrahmn69.github.io/CV/](https://3bdulrahmn69.github.io/CV/)
 
-- ⚡ Fun fact **abdelrahmanmoussa111@gmail.com**
+- ⚡ Email **abdelrahmanmoussa111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
