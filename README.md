@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/3bdulrahmn69" target="blank"><img src="https://img.shields.io/twitter/follow/3bdulrahmn69?logo=twitter&style=for-the-badge" alt="3bdulrahmn69" /></a> </p>
 
-- 🔭 I’m currently working on [E-Store](https://github.com/3bdulrahmn69/Estore)
+- 🔭 I’m currently working on [MercyBridge](https://github.com/3bdulrahmn69/mercyBridge)
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://abdelrahman69.tech](https://abdelrahman69.tech)
 
