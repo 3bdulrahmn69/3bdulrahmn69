@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech/](https://www.3bdulrahmn.tech/)
+- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech](https://www.3bdulrahmn.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@3bdulrahmn69](https://medium.com/@3bdulrahmn69)
 
