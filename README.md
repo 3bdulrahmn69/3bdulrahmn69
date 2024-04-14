@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://abdelrahman69.tech](https://abdelrahman69.tech)
+- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech/](https://www.3bdulrahmn.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@3bdulrahmn69](https://medium.com/@3bdulrahmn69)
 
-- 📄 Know about my experiences [https://3bdulrahmn69.github.io/CV/](https://3bdulrahmn69.github.io/CV/)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/emcfrihgf1)
 
-- ⚡ Email **abdelrahmanmoussa111@gmail.com**
+- ⚡ Email **abdulrahmanmoussa69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
