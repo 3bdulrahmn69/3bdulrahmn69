@@ -1,31 +1,29 @@
 ![Header](./header-image.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdulrahmn69&label=Profile%20views&color=0e75b6&style=flat" alt="3bdulrahmn69" /> </p>
+<p align="right">
+  <span> <a href="https://twitter.com/3bdulrahmn69" target="blank"><img src="https://img.shields.io/twitter/follow/3bdulrahmn69?logo=twitter&style=for-the-badge" alt="3bdulrahmn69" /></a> </span>
+  <br>
+  <span> <img src="https://komarev.com/ghpvc/?username=3bdulrahmn69&label=Profile%20views&color=0e75b6&style=flat" alt="3bdulrahmn69" /> </span> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdulrahmn69" alt="3bdulrahmn69" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/3bdulrahmn69" target="blank"><img src="https://img.shields.io/twitter/follow/3bdulrahmn69?logo=twitter&style=for-the-badge" alt="3bdulrahmn69" /></a> </p>
-
-- 🔭 I’m currently working on [MercyBridge](https://github.com/3bdulrahmn69/mercyBridge)
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech](https://www.3bdulrahmn.tech)
-
-- 📝 I regularly write articles on [https://medium.com/@3bdulrahmn69](https://medium.com/@3bdulrahmn69)
+- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech/projects](https://www.3bdulrahmn.tech/projects)
 
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/emcfrihgf1)
 
 - ⚡ Email **abdulrahmanmoussa69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.3bdulrahmn.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/3bdulrahmn69/Portfolio_v3/main/src/assets/logo.png" alt="@3bdulrahmn69" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
+<a href="https://medium.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bdulrahmn69" height="30" width="40" /></a>
+<a href="https://twitter.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
 <a href="https://fb.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
 <a href="https://instagram.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://medium.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdulrahmn69&show_icons=true&locale=en&layout=compact" alt="3bdulrahmn69" width="560" height="240" style="display:block;" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdulrahmn69&" alt="3bdulrahmn69" width="560" height="240" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdulrahmn69&show_icons=true&locale=en" alt="3bdulrahmn69" width="560" height="240" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdulrahmn69" alt="3bdulrahmn69" /></a> </p>
