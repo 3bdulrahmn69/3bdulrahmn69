@@ -22,7 +22,7 @@
 ## <bold>Connect with me</bold>:
 
 <p align="center">
-<a href="https://www.3bdulrahmn.tech/contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/3bdulrahmn69/Portfolio_v3/main/src/assets/logo.png" alt="@3bdulrahmn69" height="35" width="35" /></a>
+<a href="https://3bdulrahmn.vercel.app/#contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/3bdulrahmn69/Portfolio_v3/main/src/assets/logo.png" alt="@3bdulrahmn69" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
 <a href="https://medium.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bdulrahmn69" height="30" width="40" /></a>
 <a href="https://twitter.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
