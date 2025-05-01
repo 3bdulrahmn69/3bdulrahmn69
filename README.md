@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://www.3bdulrahmn.tech/projects](https://www.3bdulrahmn.tech/projects)
+- 👨‍💻 All of my projects are available at [[https://www.3bdulrahmn.tech/projects](https://3bdulrahmn.vercel.app/projects)]([https://www.3bdulrahmn.tech/projects](https://3bdulrahmn.vercel.app/projects))
 
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/emcfrihgf1)
 
