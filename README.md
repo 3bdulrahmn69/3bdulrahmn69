@@ -1,50 +1,113 @@
-![Header](./header-image.png)
+<div style="border: 2px solid #97a1d3; padding: 10px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+<h1 style="border-bottom: 0px solid #97a1d3;" align="center">Hi, I'm Abdulrahman Moussa</h1>
+<h3 align="center">Front End Developer | Building Modern Web Applications</h3>
+</div>
 
 <p align="right">
-  <span> <a href="https://twitter.com/3bdulrahmn69" target="blank"><img src="https://img.shields.io/twitter/follow/3bdulrahmn69?logo=twitter&style=for-the-badge" alt="3bdulrahmn69" /></a> </span>
-  <br>
-  <span> <img src="https://komarev.com/ghpvc/?username=3bdulrahmn69&label=Profile%20views&color=0e75b6&style=flat" alt="3bdulrahmn69" /> </span> 
+   <a href="https://x.com/3bdulrahmn69" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/3bdulrahmn69?logo=x&style=for-the-badge&color=97a1d3" alt="Twitter Follow" />
+  </a>
+   <img style="display:block" src="https://komarev.com/ghpvc/?username=3bdulrahmn69&label=Profile%20views&color=97a1d3&style=flat" alt="Profile views" />
+  </p>
 </p>
 
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 Currently building with **Next.js, React & TypeScript**
+- 💼 Portfolio: **[3bdulrahmn.vercel.app](https://3bdulrahmn.vercel.app/)**
+- 📄 Resume: **[View My Experience](https://flowcv.com/resume/emcfrihgf1)**
+- 📧 Email: **abdulrahmanmoussa69@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://3bdulrahmn.vercel.app/projects](https://3bdulrahmn.vercel.app/projects)
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [Resume](https://flowcv.com/resume/emcfrihgf1)
+### 📽️ Track Verse
 
-- ⚡ Email **abdulrahmanmoussa69@gmail.com**
+<p>
+  <a href="https://track-verse.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-97a1d3?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/3bdulrahmn69/track-verse" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-97a1d3?style=for-the-badge&logo=github" alt="Repository" />
+  </a>
+</p>
+<p>Track and organize your favorite movies, TV shows, books, and video games all in one place. Discover new content, share reviews, and connect with friends.</p>
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+### 💰 Fine Life
 
-## <bold>Connect with me</bold>:
+<p>
+  <a href="https://fine-life.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-97a1d3?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/3bdulrahmn69/fine-life" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-97a1d3?style=for-the-badge&logo=github" alt="Repository" />
+  </a>
+</p>
+<p>A comprehensive personal finance management application with smart expense tracking, intelligent budget management, and multi-currency support.</p>
+
+### 🔨 Herfa
+
+<p>
+  <a href="https://herfa-g.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-97a1d3?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/3bdulrahmn69/craftworks-frontend" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-97a1d3?style=for-the-badge&logo=github" alt="Repository" />
+  </a>
+</p>
+<p>A platform to connect skilled and verified craftsmen with potential clients. Bridging the gap between quality service providers and those who need them.</p>
+
+## 🔗 Connect with Me
 
 <p align="center">
-<a href="https://3bdulrahmn.vercel.app/#contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/3bdulrahmn69/Portfolio_v3/main/src/assets/logo.png" alt="@3bdulrahmn69" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://medium.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://twitter.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://fb.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
-<a href="https://instagram.com/3bdulrahmn69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdulrahmn69" height="30" width="40" /></a>
+<a href="https://3bdulrahmn.vercel.app/#contact" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-97a1d3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-97a1d3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-97a1d3?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://medium.com/@3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-97a1d3?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://www.youtube.com/@3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-97a1d3?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://fb.com/3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-97a1d3?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://instagram.com/3bdulrahmn69" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-97a1d3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+## 🛠️ Languages and Tools
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdulrahmn69&show_icons=true&locale=en&layout=compact" alt="3bdulrahmn69" width="560" height="240" style="display:block;" /></p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdulrahmn69&" alt="3bdulrahmn69" width="560" height="240" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdulrahmn69&show_icons=true&locale=en" alt="3bdulrahmn69" width="560" height="240" />
-</p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdulrahmn69" alt="3bdulrahmn69" /></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bdulrahmn69&theme=calm&hide_border=true&ring=97a1d3&fire=97a1d3&currStreakLabel=97a1d3" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=3bdulrahmn69&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
