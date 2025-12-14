@@ -16,7 +16,7 @@
 - 🌱 Currently building with **Next.js, React & TypeScript**
 - 💼 Portfolio: **[3bdulrahmn.vercel.app](https://3bdulrahmn.vercel.app/)**
 - 📄 Resume: **[View My Experience](https://flowcv.com/resume/emcfrihgf1)**
-- 📧 Email: **abdulrahmanmoussa69@gmail.com**
+- 📧 Email: **abdulrahman.moussa.dev@gmail.com**
 
 ## 🚀 Featured Projects
 
